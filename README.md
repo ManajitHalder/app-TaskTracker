@@ -21,3 +21,6 @@ Features:
 9. User Authentication
 10. Searching a Task
 11. Settings Page
+
+Database: 
+MongoDB Realm with Sync
